@@ -1,0 +1,15 @@
+TODO
+====
+
+This file should contain everything that needs to be done. Items on 
+this list should be possible to complete with existing classes.
+
+ - Update keyboard input
+ - Create basic graphics classes:
+	 - Edge
+	 - Face
+	 - Mesh
+ - Create basic audio functionality
+ - Write javadocs
+ - Write a better README
+ - Add more to this list
