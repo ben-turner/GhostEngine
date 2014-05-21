@@ -1,7 +1,5 @@
 package org.ghostengine.graphics;
 
-import java.awt.Graphics;
-
 /**
  * Represents a vector in three-dimensional space using values <code>(a, b, c)</code>.
  * Uses floating-point precision.

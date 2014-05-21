@@ -52,8 +52,9 @@ public class Window {
 		    }
 		});
 		
-		// Create content pane
 		frame = new JPanel() {
+			private static final long serialVersionUID = 4268219540828240804L;
+
 			@Override
 			public void paintComponent(Graphics g) {
 				g.drawImage(buffer, 0, 0, frame);
