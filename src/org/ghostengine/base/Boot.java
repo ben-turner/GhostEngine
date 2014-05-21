@@ -8,15 +8,11 @@ import java.util.ArrayList;
 
 import javax.swing.JFileChooser;
 
-import my_games.LineTest;
-
 public class Boot {
 	
 	public static void main(String[] args) {
 		Boot boot = new Boot();
-		//boot.loadGames();
-		new LineTest().run();
-		//boot.loadGameList();
+		boot.loadGames();
 	}
 
 	public void loadGames() {
