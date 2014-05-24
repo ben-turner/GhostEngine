@@ -4,11 +4,13 @@ TODO
 This file should contain everything that needs to be done. Items on 
 this list should be possible to complete with existing classes.
 
+ - Fix window creation
  - Update keyboard input
  - Create basic graphics classes:
 	 - Edge
 	 - Face
 	 - Mesh
+ - Improve game selection window
  - Create basic audio functionality
  - Write javadocs
  - Write a better README
